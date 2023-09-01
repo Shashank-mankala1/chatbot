@@ -5,6 +5,10 @@ body {
     background-color: #f0f0f0;
     text-align: center;
 }
+.note{
+    color: #ff9800;
+    cursor: pointer;
+}
 
 header {
     background-color: #ff9800;
